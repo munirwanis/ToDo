@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="action_settings">Configurações</string>
+    <string name="name">Nome</string>
+    <string name="add">Add</string>
+    <string name="there_is_no_items">Não há itens</string>
+    <string name="hello_blank_fragment">Olá fragmento vazio</string>
+    <string name="error_fragment">É necessário inserir algum texto.</string>
+</resources>
